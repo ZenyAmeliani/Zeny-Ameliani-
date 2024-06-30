@@ -8,14 +8,13 @@
      " Channel : @ZenyRipRog"
      " Rilis 01 Juli 2024 "  
      " Type Modul Universal Devices "
-
-🚘 ZNY Tweaks AI Games V2 🚘
-
-🚘 Support 
-🚨 Magiks/KSU
-🚨 Universal devices
+     " ZNY Tweaks AI Games V2 "
+	 " Support  "
+     " Magiks/KSU "
+     " Universal devices "
 
 🚘 Fitur ( Versi 2.0.2 ) 
+
 🚨 Menambahkan fitur ZNY AI Games 
 🚨 Menambahkan Apk ZNY AI Games 
 🚨 Menambahkan Apk Tweaks Performance
